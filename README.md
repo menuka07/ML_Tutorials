@@ -1,2 +1,2 @@
 # ML_Tutorials
-Tutorials for ML algos 
+Description of ML algos and worked out examples in python
